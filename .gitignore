@@ -1,0 +1,7 @@
+# Output file
+out/
+
+# IntelliJ IDE
+.idea/
+*.iml
+src/META-INF/
