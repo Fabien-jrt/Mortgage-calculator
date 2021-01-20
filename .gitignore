@@ -1,5 +1,5 @@
 # Output file
-out/
+build/
 
 # IntelliJ IDE
 .idea/
