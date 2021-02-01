@@ -1,2 +1,2 @@
 # Mortgage-calculator
-Use to calculate mortgage and mothly interest schedule.
+A Morgage calculator used to calculate mortgage and mothly interest schedule.
